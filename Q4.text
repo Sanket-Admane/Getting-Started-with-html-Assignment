@@ -1,0 +1,12 @@
+Q4. Write a short note on Tag and Element with an example
+
+Tag:
+    An html tag is a snippet of code enclosed within angle brackets ("<" and ">") that defines the purpose and structure
+    of a specific element an a webpage Tages are used to instruct the web browser how to display the content they 
+    enclose. Tags usually come in pairs: an opening tag and a closing tag, with the name of the element enclosed within 
+    the tags.
+
+Element:
+    An html element is a complet unit that includes an opening tag, content, and a closing tag. it represents a
+    distinct part of a webpage content or structure. Elements are composed of tags and the content enclosed between
+    those tags.

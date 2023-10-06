@@ -1,0 +1,6 @@
+Q5. What is the DOCTYPE Declaration in htnl
+
+Answer:
+    The Doctype Declaration in html is a special instructions placed at the beginning of an html document to specify the
+    version of html being used. it ensure proper redering and parsing by web browser. The most common Declaration
+    <DOCTYPE html>, indicates the use of thml5, the latest version of html
